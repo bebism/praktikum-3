@@ -1,5 +1,8 @@
 <?php
 
 		$x = "halo dunia";
-		echo $x;
+                $y= "Selamat Berbuka Puasa"
+		
+			echo $x;
+			echo $y;
 ?>
